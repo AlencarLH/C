@@ -1,7 +1,7 @@
 #include<stdlib.h>
 #include<stdio.h>
 #include<string.h>
-
+//esse demonio ta contando <..> como nao sendo diamante por causa do ponto, arruma isso ae
 char pilha[1001];
 int qtd=0,topo;
 
